@@ -40,3 +40,4 @@ for child in tree['a']:
         best_move = child
 
 print("Meilleur coup pour MAX :", best_move)
+#finish
